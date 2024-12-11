@@ -1,0 +1,2 @@
+# flutter_chat_composer_prefix_suffix
+flutter_chat_composer_prefix_suffix
